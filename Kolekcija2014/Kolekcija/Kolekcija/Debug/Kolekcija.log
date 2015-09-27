@@ -1,0 +1,20 @@
+﻿Build started 2015/09/27 13:25:05.
+     1>Project "C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Kolekcija\Kolekcija.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         O:\Games\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mantas\documents\github\vbe-uzd\kolekcija2014\kolekcija\kolekcija\main.cpp(104): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         O:\Games\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Debug\Kolekcija.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Debug\Kolekcija.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Debug\Kolekcija.lib" /MACHINE:X86 Debug\main.obj
+         Kolekcija.vcxproj -> C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Debug\Kolekcija.exe
+     1>Done Building Project "C:\Users\Mantas\Documents\GitHub\VBE-uzd\Kolekcija2014\Kolekcija\Kolekcija\Kolekcija.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
